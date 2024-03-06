@@ -1,4 +1,2 @@
 # odin-recipes
-Project: Recipes
-
-Build a basic recipe webiste utilizing all of the HTML knowledge acquired through the Odin Project!
+For my first project with The Odin Project, I will build a basic recipe website with HTML. 
