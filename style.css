@@ -1,0 +1,9 @@
+body {
+    font-family: Helvetica, Verdana, Sans-serif;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
